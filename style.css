@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&family=Roboto:wght@300&display=swap');
+
+
+
+body{
+    background-color: #f2d3e5;
+    font-family: 'Love Ya Like A Sister', sans-serif;
+    font-size: 2rem;
+}
+#container{
+    position: absolute;
+    width:21rem;
+    height: 10rem;
+    top:50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+
+
+
+
+}
+#te{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(coei.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+
+    
+}
+#amo{
+    width: 10rem;
+    height: 10rem;
+    background-image: url(batata.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    background-position: bottom;
+
+    
+}
+#tex{
+    
+    display:inline-block;
+   
+    position:relative;
+
+    transform: translate(100%, 100%);
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+#tex2{
+   
+    display:inline-block;
+  
+    position:relative;
+    transform: translate(10%, 100%);
+    margin-top: 0;
+    margin-bottom: 0;
+   
+    
+
+}
